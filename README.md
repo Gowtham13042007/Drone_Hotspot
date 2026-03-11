@@ -1,4 +1,4 @@
-# Drone_Hotspot 🚁
+# Drone_Hotspot_Landing 🚁
 
 A ROS 2 autonomous drone inspection package that uses PX4 + MAVROS to navigate a drone through predefined hotspot locations for automated site inspection in a Gazebo Classic simulation environment.
 
@@ -235,12 +235,3 @@ rosdep install --from-paths src --ignore-src -r -y
 
 ---
 
-## License
-
-This project is open source. See repository for license details.
-
----
-
-## Author
-
-**Gowtham13042007** — [GitHub](https://github.com/Gowtham13042007/Drone_Hotspot)
